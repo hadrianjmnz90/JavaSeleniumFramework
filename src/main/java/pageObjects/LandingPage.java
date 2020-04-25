@@ -6,7 +6,6 @@ import org.openqa.selenium.WebElement;
 
 import java.util.List;
 
-//rahulonlinetutor@gmail.com
 public class LandingPage {
     public WebDriver driver;
 
